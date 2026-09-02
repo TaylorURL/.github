@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TaylorURL/taylorurl-com/main/public/images/TaylorURL-Logo.png" width="200" alt="TaylorURL" />
+  <img src="https://www.taylorurl.com/images/TaylorURL-Logo.png" width="200" alt="TaylorURL" />
 </p>
 
 <h1 align="center">TaylorURL</h1>
