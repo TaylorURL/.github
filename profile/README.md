@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TaylorURL/taylorurl-com/main/public/images/TaylorURL-Logo.png" width="200" alt="TaylorURL" />
+  <img src="https://www.taylorurl.com/images/TaylorURL-Logo.png" width="200" alt="TaylorURL" />
 </p>
 
 <h1 align="center">TaylorURL</h1>
@@ -38,13 +38,13 @@ applications built to be used rather than visited.
 
 ## The studio
 
-| Repository | What it is |
+| Repository | What It Is |
 | :--- | :--- |
 | [taylorurl-com](https://github.com/TaylorURL/taylorurl-com) | The studio's own site and operations console. Every route is rendered to static HTML at build time, analytics are first-party and cookieless, and the console carries the traffic, uptime, mailing list and outreach behind a sign-in. [taylorurl.com](https://taylorurl.com) |
 
 ## Tools
 
-| Repository | What it is |
+| Repository | What It Is |
 | :--- | :--- |
 | [sunday](https://github.com/TaylorURL/sunday) | A checkpoint in front of every action a coding agent takes. The rule runs in the execution path and refuses, instead of sitting in a document the model has to remember. Go, and free to use. |
 | [sunday-standards](https://github.com/TaylorURL/sunday-standards) | The checklists, standards and skills Sunday is run with here, published as a profile anyone can add underneath their own. |
@@ -52,7 +52,7 @@ applications built to be used rather than visited.
 
 ## Applications
 
-| Repository | What it is |
+| Repository | What It Is |
 | :--- | :--- |
 | [domebreak-com](https://github.com/TaylorURL/domebreak-com) | DomeBreak — a real-time strategy missile game played on the living world map. React and MapLibre GL in the browser, Electron on the desktop. [domebreak.com](https://domebreak.com) |
 | [smyrnatools-com](https://github.com/TaylorURL/smyrnatools-com) | The internal operations platform for Smyrna Ready Mix: fleet, people and plant performance across every region and plant, each record carrying a verification state and a full change history. [smyrnatools.com](https://smyrnatools.com) |
@@ -61,7 +61,7 @@ applications built to be used rather than visited.
 
 ## Client sites
 
-| Repository | Who it is for |
+| Repository | Who It Is For |
 | :--- | :--- |
 | [baytowngocarts-com](https://github.com/TaylorURL/baytowngocarts-com) | Speedway 146, a go-kart track in Baytown, Texas. [baytowngokarts.com](https://baytowngokarts.com) |
 | [deluxlavello-com](https://github.com/TaylorURL/deluxlavello-com) | Delux Financial Solutions. [deluxlavello.com](https://deluxlavello.com) |
