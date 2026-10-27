@@ -22,7 +22,7 @@ Most of the repos here are client sites. The rest are the studio's own site and 
 | [Hollingshead Harbor](https://hollingsheadharbor.com) | Marine company across 13 harbors. Deckhands and wheelmen apply from their phone | [hollingsheadharbor-com](https://github.com/TaylorURL/hollingsheadharbor-com) |
 | [Dickinson Bayou Fleeting](https://dickinsonbayoufleeting.com) | Barge yards on Galveston Bay and in Freeport, leased by the month | [dickinsonbayoufleeting-com](https://github.com/TaylorURL/dickinsonbayoufleeting-com) |
 | [Faded Barber Shop](https://faded-barbershop.com) | Barber shop in Liberty, with a WebGL head of hair that gets shorter as you scroll | [fadedbarbershop-com](https://github.com/TaylorURL/fadedbarbershop-com) |
-| [Speedway 146](https://baytowngokarts.com) | Go-kart track in Baytown. Wristbands and birthday parties are booked online | [baytowngocarts-com](https://github.com/TaylorURL/baytowngocarts-com) |
+| [Speedway 146](https://baytowngokarts.com) | Go-kart track in Baytown. Race tickets and birthday parties are booked online | [baytowngocarts-com](https://github.com/TaylorURL/baytowngocarts-com) |
 | [Impressiva Printing](https://impressivaprinting.com) | Print shop in Pasadena. Customers upload artwork, approve proofs and track their job | [impressivaprinting-com](https://github.com/TaylorURL/impressivaprinting-com) |
 | [Southeast Arbor Care](https://southeastarbor.com) | Tree service in Pasadena, with a page for each town it serves | [southeastarbor-com](https://github.com/TaylorURL/southeastarbor-com) |
 | [TireTracker](https://www.tiretracker.app) | Service records for commercial tire shops and the fleets they work on. Works offline | |
@@ -35,7 +35,7 @@ Most of the repos here are client sites. The rest are the studio's own site and 
 | [Root & Rise](https://www.rootriseholdings.com) | A trading desk's platform, with a trade journal that blocks trades breaking the risk rules | [rootriseholdings-com](https://github.com/TaylorURL/rootriseholdings-com) |
 | [SouthBound](https://southboundofficial.website) | Merch store and giveaway site for a truck brand | [southboundofficial-website](https://github.com/TaylorURL/southboundofficial-website) |
 
-The client sites in the [portfolio](https://www.taylorurl.com/portfolio) average 98 on mobile and 100 on desktop in Google PageSpeed Insights.
+The client sites in the [portfolio](https://www.taylorurl.com/portfolio) average 99 on mobile and 100 on desktop in Google PageSpeed Insights.
 
 ## Studio projects
 
