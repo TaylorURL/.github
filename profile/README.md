@@ -1,20 +1,12 @@
-<p align="center">
-  <img src="https://www.taylorurl.com/images/TaylorURL-Logo.png" width="200" alt="TaylorURL" />
-</p>
+<img src="https://www.taylorurl.com/images/TaylorURL-Logo.png" width="200" alt="TaylorURL" />
 
-<h1 align="center">TaylorURL</h1>
+# TaylorURL
 
-<p align="center">A one-person web studio in Baytown, Texas.</p>
+Websites and web apps for businesses around Houston. Run by [Trenton Taylor](https://github.com/bradley-t-t) in Baytown, Texas.
 
-<p align="center">
-  <a href="https://www.taylorurl.com">taylorurl.com</a> · <a href="https://www.taylorurl.com/start">Start a project</a>
-</p>
+[taylorurl.com](https://www.taylorurl.com) · [Start a project](https://www.taylorurl.com/start)
 
-TaylorURL is [Trenton Taylor](https://github.com/bradley-t-t), a full-stack developer who builds websites and web apps for local businesses around Houston. He does every project start to finish, from the database to the hosting, and keeps looking after the sites once they're live.
-
-Most of the repos here are client sites. The rest are the studio's own site and a few tools.
-
-## Client sites
+## Work
 
 | Site | What it is | Code |
 | :--- | :--- | :--- |
@@ -22,7 +14,7 @@ Most of the repos here are client sites. The rest are the studio's own site and 
 | [Hollingshead Harbor](https://hollingsheadharbor.com) | Marine company across 13 harbors. Deckhands and wheelmen apply from their phone | [hollingsheadharbor-com](https://github.com/TaylorURL/hollingsheadharbor-com) |
 | [Dickinson Bayou Fleeting](https://dickinsonbayoufleeting.com) | Barge yards on Galveston Bay and in Freeport, leased by the month | [dickinsonbayoufleeting-com](https://github.com/TaylorURL/dickinsonbayoufleeting-com) |
 | [Faded Barber Shop](https://faded-barbershop.com) | Barber shop in Liberty, with a WebGL head of hair that gets shorter as you scroll | [fadedbarbershop-com](https://github.com/TaylorURL/fadedbarbershop-com) |
-| [Speedway 146](https://baytowngokarts.com) | Go-kart track in Baytown. Wristbands and birthday parties are booked online | [baytowngocarts-com](https://github.com/TaylorURL/baytowngocarts-com) |
+| [Speedway 146](https://baytowngokarts.com) | Go-kart track in Baytown. Race tickets and birthday parties are booked online | [baytowngocarts-com](https://github.com/TaylorURL/baytowngocarts-com) |
 | [Impressiva Printing](https://impressivaprinting.com) | Print shop in Pasadena. Customers upload artwork, approve proofs and track their job | [impressivaprinting-com](https://github.com/TaylorURL/impressivaprinting-com) |
 | [Southeast Arbor Care](https://southeastarbor.com) | Tree service in Pasadena, with a page for each town it serves | [southeastarbor-com](https://github.com/TaylorURL/southeastarbor-com) |
 | [TireTracker](https://www.tiretracker.app) | Service records for commercial tire shops and the fleets they work on. Works offline | |
@@ -35,9 +27,9 @@ Most of the repos here are client sites. The rest are the studio's own site and 
 | [Root & Rise](https://www.rootriseholdings.com) | A trading desk's platform, with a trade journal that blocks trades breaking the risk rules | [rootriseholdings-com](https://github.com/TaylorURL/rootriseholdings-com) |
 | [SouthBound](https://southboundofficial.website) | Merch store and giveaway site for a truck brand | [southboundofficial-website](https://github.com/TaylorURL/southboundofficial-website) |
 
-The client sites in the [portfolio](https://www.taylorurl.com/portfolio) average 98 on mobile and 100 on desktop in Google PageSpeed Insights.
+More in the [portfolio](https://www.taylorurl.com/portfolio).
 
-## Studio projects
+## Other projects
 
 - [taylorurl-com](https://github.com/TaylorURL/taylorurl-com): the studio's own website, [taylorurl.com](https://www.taylorurl.com)
 - [DomeBreak](https://domebreak.com) ([code](https://github.com/TaylorURL/domebreak-com)): a real-time missile strategy game on the real world map, played as a desktop app
