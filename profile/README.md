@@ -6,7 +6,8 @@ Websites and web apps for businesses around Houston. Run by [Trenton Taylor](htt
 
 [taylorurl.com](https://www.taylorurl.com) · [Start a project](https://www.taylorurl.com/start)
 
-## Work
+<details>
+<summary>Work</summary>
 
 | Site | What it is | Code |
 | :--- | :--- | :--- |
@@ -27,15 +28,20 @@ Websites and web apps for businesses around Houston. Run by [Trenton Taylor](htt
 | [Root & Rise](https://www.rootriseholdings.com) | A trading desk's platform, with a trade journal that blocks trades breaking the risk rules | [rootriseholdings-com](https://github.com/TaylorURL/rootriseholdings-com) |
 | [SouthBound](https://southboundofficial.website) | Merch store and giveaway site for a truck brand | [southboundofficial-website](https://github.com/TaylorURL/southboundofficial-website) |
 
+</details>
+
 More in the [portfolio](https://www.taylorurl.com/portfolio).
 
-## Other projects
+<details>
+<summary>Other projects</summary>
 
 - [taylorurl-com](https://github.com/TaylorURL/taylorurl-com): the studio's own website, [taylorurl.com](https://www.taylorurl.com)
 - [DomeBreak](https://domebreak.com) ([code](https://github.com/TaylorURL/domebreak-com)): a real-time missile strategy game on the real world map, played as a desktop app
 - [Sunday](https://github.com/TaylorURL/sunday): rules that check what an AI coding agent is about to do before it does it. Written in Go
 - [sunday-standards](https://github.com/TaylorURL/sunday-standards): the design, SEO, performance and database checklists used with Sunday
 - [split-rail](https://github.com/TaylorURL/split-rail): the "Built by TaylorURL" footer bar on the client sites
+
+</details>
 
 ## Get in touch
 
