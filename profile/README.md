@@ -40,6 +40,7 @@ More in the [portfolio](https://www.taylorurl.com/portfolio).
 - [Sunday](https://github.com/TaylorURL/sunday): rules that check what an AI coding agent is about to do before it does it. Written in Go
 - [sunday-standards](https://github.com/TaylorURL/sunday-standards): the design, SEO, performance and database checklists used with Sunday
 - [split-rail](https://github.com/TaylorURL/split-rail): the "Built by TaylorURL" footer bar on the client sites
+- [Resourcing Humans](https://resourced.careers): grades employers A to F on how they treat the people who apply, read off their own job boards and application forms
 - [chainwork](https://github.com/TaylorURL/chainwork): the studio's outreach, with each chain of letters and calls written down as one file. A private repo
 
 </details>
