@@ -37,11 +37,9 @@ More in the [portfolio](https://www.taylorurl.com/portfolio).
 
 - [taylorurl-com](https://github.com/TaylorURL/taylorurl-com): the studio's own website, [taylorurl.com](https://www.taylorurl.com)
 - [DomeBreak](https://domebreak.com) ([code](https://github.com/TaylorURL/domebreak-com)): a real-time missile strategy game on the real world map, played as a desktop app
-- [Sunday](https://github.com/TaylorURL/sunday): rules that check what an AI coding agent is about to do before it does it. Written in Go
-- [sunday-standards](https://github.com/TaylorURL/sunday-standards): the design, SEO, performance and database checklists used with Sunday
 - [split-rail](https://github.com/TaylorURL/split-rail): the "Built by TaylorURL" footer bar on the client sites
 - [Resourcing Humans](https://resourced.careers): grades employers A to F on how they treat the people who apply, read off their own job boards and application forms
-- [chainwork](https://github.com/TaylorURL/chainwork): the studio's outreach, with each chain of letters and calls written down as one file. A private repo
+- [chainwork](https://github.com/TaylorURL/chainwork): the studio's outreach, with each chain of letters and calls written down as one file
 
 </details>
 
